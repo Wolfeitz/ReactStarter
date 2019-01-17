@@ -1,5 +1,5 @@
 import React from 'react';
-import Campuses from '../CheckboxContainer/CheckboxContainer';
+import Campuses from '../components/CheckboxContainer/CheckboxContainer';
 
 class BulkMail extends React.Component {
     render() {
