@@ -11,6 +11,7 @@ const Nav = () => (
     <li><Link to="/EssayForm">Essay Form</Link></li>
     <li><Link to="/MultiForm">Multi Form</Link></li>
     <li><Link to="/InputForm">Formik Yup Example</Link></li>
+    <li><Link to="/functiongateway">Function Gateway</Link></li>
 </ul>
 );
 
